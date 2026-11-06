@@ -16,8 +16,7 @@ OUN は、岡山大学の学生のための**非公式**のアプリです。時
 
 ### Windows・Android（ベータ版）
 
-**最新の版は、[Releases](../../releases) の一番上にある版です**（現在: [v0.2.4](../../releases/tag/v0.2.4)）。
-ベータ版は「プレリリース」として公開しているため、GitHub の「Latest」の表示は、古い版（v0.2.0）を指すことがあります。**「Latest」ではなく、一番上の版（番号の大きいもの）を使ってください。**
+**最新の版は、[Releases](../../releases/latest) の「Latest」です**（現在: [v0.2.4](../../releases/tag/v0.2.4)）。ベータ版（不具合があるかもしれません）です。
 
 | ファイル | 内容 |
 | --- | --- |
@@ -49,5 +48,5 @@ OUN brings the timetable, Moodle, assignments, buses, the campus map and an on-d
 
 - Site (features, guide, news): https://jinrui0713.github.io/okadai-app/en/
 - iPhone, iPad, Mac, Apple Watch: [App Store](https://apps.apple.com/app/id6823992697) (free)
-- **Windows 10/11 and Android 8+ (beta)**: download from [Releases](../../releases). Use the **top-most (highest-numbered) release**, currently [v0.2.4](../../releases/tag/v0.2.4). Betas are published as pre-releases, so GitHub's "Latest" label may point to an old version (v0.2.0). Windows may show a SmartScreen warning on first launch ("More info" → "Run anyway"); the Windows app updates itself.
+- **Windows 10/11 and Android 8+ (beta)**: download from [Releases](../../releases). Use the **latest release**, currently [v0.2.4](../../releases/tag/v0.2.4). Windows may show a SmartScreen warning on first launch ("More info" → "Run anyway"); the Windows app updates itself.
 - [Privacy policy (English summary)](https://jinrui0713.github.io/okadai-app/en/privacy/) · Contact: okadaiapp@gmail.com
